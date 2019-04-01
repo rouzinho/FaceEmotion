@@ -8,7 +8,7 @@ This script is used with a GummiArm robot where a 2 dofs head gaze toward people
 
 The emotion recognition is based on the great post : https://sefiks.com/2018/01/10/real-time-facial-expression-recognition-on-streaming-data/
 
-Kera and TensorFlow are used to train the face emotion recognition dataset https://www.kaggle.com/deadskull7/fer2013
+Keras and TensorFlow are used to train the face emotion recognition dataset https://www.kaggle.com/deadskull7/fer2013
 
 .json and .h5 are the parameters of the model trained with different epochs. The more stable parameters seem the be with 15 epochs.
 
