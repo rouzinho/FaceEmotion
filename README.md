@@ -12,6 +12,8 @@ Keras and TensorFlow are used to train the face emotion recognition dataset http
 
 .json and .h5 are the parameters of the model trained with different epochs. The more stable parameters seem the be with 15 epochs.
 
+The fer.h5 and fer.json comes from https://github.com/gitshanks/fer2013 since it has a better accuracy (it was for testing.)
+
 ## ROS Head Tracking
 
 The face tracking is the same code as here : https://github.com/rouzinho/FaceTracking 
